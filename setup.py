@@ -10,5 +10,5 @@ setup(
     description = "Get route times",
     license = 'GNU GPL v3',
     keywords = ['waze', 'route', 'times'],
-    packages = ['simplewaze','config',]
+    packages = ['simplewaze',]
 )
