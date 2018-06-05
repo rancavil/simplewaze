@@ -1,7 +1,0 @@
-setup.py
-simplewaze/config.py
-simplewaze/timeroutes.py
-simplewaze.egg-info/PKG-INFO
-simplewaze.egg-info/SOURCES.txt
-simplewaze.egg-info/dependency_links.txt
-simplewaze.egg-info/top_level.txt
