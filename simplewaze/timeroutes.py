@@ -6,7 +6,7 @@ else:
 	import urllib
 
 import json
-import config
+import simplewaze.config as config
 
 def getRouteTimes(debug = False):
 	try:
